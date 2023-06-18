@@ -1,6 +1,4 @@
 __pycache__
-*.pth
-/ESRGAN/*
 /SwinIR/*
 /repositories
 /venv
@@ -10,7 +8,6 @@ __pycache__
 /outputs
 /log
 /webui.settings.bat
-/embeddings
 /styles.csv
 /params.txt
 /styles.csv.bak
