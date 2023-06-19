@@ -149,7 +149,7 @@
     "control_net_model_adapter_config": "/content/gdrive/MyDrive/sd/stable-diffusion-webui/extensions/sd-webui-controlnet/models/sketch_adapter_v14.yaml",
     "control_net_detectedmap_dir": "/content/gdrive/MyDrive/sd/stable-diffusion-webui/extensions/sd-webui-controlnet/detected_maps",
     "control_net_models_path": "",
-    "control_net_max_models_num": 2,
+    "control_net_max_models_num": 3,
     "control_net_model_cache_size": 2,
     "control_net_control_transfer": false,
     "control_net_no_detectmap": false,
